@@ -2,6 +2,10 @@
 
 This is a personal portfolio website. It will be a platform to house my projects which will showcase the range of Front End Developer and creative skills I have. It will be used by industry professionals including recruiters, employers and collaborators.
 
+## User Stories
+- As a Recruiter/Employer I want to see a clear and concise layout for the portfolio, to be able to navigate it with ease, and to view the projects, experiences, and languages used.
+- As a collaborator I want to see the projects, current knowledge and experience in terms of languages used, and where I can add value for future projects.
+
 ## Existing Features
 ### All Sections
 - Website Name Link - Clicking the website name will link the user back to the top of the page
@@ -33,26 +37,26 @@ This is a personal portfolio website. It will be a platform to house my projects
 - Continue to add to my Projects section.
 
 ## Technologies Used
-[**HTML5**] http://https://www.w3schools.com/html/ - Used HTML5 to create the basic structure and content of my portfolio.
-[**CSS3**] https://www.w3schools.com/css/default.asp - Used CSS3 to add custom styling to elements and content of my portfolio.
-[**Bootstrap**] http://getbootstrap.com - Used for its responsive grid system and navbar toggle system with Javascript, including pre-built styling.
-[**VS Code**] http://code.visualstudio.com - Used as my main coding editor.
-[**Git**] https://git-scm.com - I used Git as a Version Control System, and utilised Terminal on my MacBook Pro to commit and push code to the remote repository.
-[**Github**] http://github.com -  I used Github as the remote repository to push and commit projects 
+[**HTML5**] (http://https://www.w3schools.com/html/) 
+    - Used HTML5 to create the basic structure and content of my portfolio.
+[**CSS3**] (https://www.w3schools.com/css/default.asp) 
+    - Used CSS3 to add custom styling to elements and content of my portfolio.
+[**Bootstrap**] (http://getbootstrap.com) 
+    - Used for its responsive grid system and navbar toggle system with Javascript, including pre-built styling.
+[**VS Code**] (http://code.visualstudio.com)
+    - Used as my main coding editor.
+[**Git**] (https://git-scm.com) 
+    - I used Git as a Version Control System, and utilised Terminal on my MacBook Pro to commit and push code to the remote repository.
+[**Github**] (http://github.com) 
+    -  I used Github as the remote repository to push and commit projects.
 
 ## Responsive Testing
-I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
-
-To test my whole website, I went through each page, feature by feature, and documented the results on a spreadsheet. The spreadsheet also documents any responsive features and confirms that they work and appear as intended on different screen sizes. The link to the spreadsheet it below:
+I used Google Chrome's Development tools to do regular checks and tests for every change I make to my portfolio to ensure it has optimum viewing on any/every device size. I also tested my website on a mobile and tablet to ensure the responsive syntaxes are working.
 
 ## Testing Checklist
-HTML and CSS Validation
-
-I used the W3C HTML Validator tool to validate my HTML code.
-
-I used the W3C CSS Validator tool to validate my CSS code.
-
-Iconsdb.com
-Validator.w3.org
+[**W3C HTML Validator Tool**] (http://Validator.w3.org) 
+    - I used the W3C HTML Validator tool to validate my HTML code.
+[**W3C CSS Validator Tool**] (https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - I used the W3C CSS Validator tool to validate my CSS code.
 
 ## Deployment

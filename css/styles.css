@@ -1,7 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #dddddd;
 }
 
-html {
-  scroll-behavior: smooth;
+.title { 
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+}
+
+.content {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
 }

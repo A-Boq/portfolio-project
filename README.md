@@ -60,9 +60,9 @@ I used Google Chrome's Development tools to do regular checks and tests for ever
 
 ## Testing Checklist
 [W3C HTML Validator Tool](http://Validator.w3.org) 
-    - I used the W3C HTML Validator tool to validate my HTML code.
+- I used the W3C HTML Validator tool to validate my HTML code.
 [W3C CSS Validator Tool](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    - I used the W3C CSS Validator tool to validate my CSS code.
+- I used the W3C CSS Validator tool to validate my CSS code.
 
 ## Deployment
 I used Github as a hosting platform for this portfolio project and used the following steps to push code and deploy my website.

@@ -35,6 +35,7 @@ This is a personal portfolio website. It will be a platform to house my projects
 - Apply Javascript to the rest of the content, perhaps some Ease In/Out functions.
 - Change contact form by using Javascript.
 - Continue to add to my Projects section.
+- Connect Github DNS with Domain name Angelica.NZ
 
 ## Technologies Used
 [HTML5](http://https://www.w3schools.com/html/) 
@@ -61,6 +62,7 @@ I used Google Chrome's Development tools to do regular checks and tests for ever
 ## Testing Checklist
 [W3C HTML Validator Tool](http://Validator.w3.org) 
 - I used the W3C HTML Validator tool to validate my HTML code.
+
 [W3C CSS Validator Tool](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - I used the W3C CSS Validator tool to validate my CSS code.
 

@@ -89,3 +89,4 @@ https://a-boq.github.io/portfolio-project/
 - Navbar toggle guidance is from https://startbootstrap.com/templates
 - Social Media and Languages icons are from https://www.iconfinder.com
 - Contact form is from https://formspree.io/f/mqkwoeeq
+- Sliding underline hover effect from https://codepen.io/mehi/pen/MyWqPM

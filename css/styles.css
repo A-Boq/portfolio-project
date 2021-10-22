@@ -17,13 +17,43 @@ body {
   font-size: 1em;
 }
 
+/* sliding underline effect from https://codepen.io/mehi/pen/MyWqPM */
+a {
+  text-decoration: none;
+  color: rgb(122, 122, 122);
+}
+
+a:hover {
+  color: rgb(88, 88, 88);
+}
+
+.link{
+  position: relative;
+}
+
+.link:after{
+  content: '';
+  position: absolute;
+  width: 0; height: 1px;
+  display: flex;
+  margin-top: 5px;
+  right: 0;
+  background: rgb(117, 117, 117);
+  transition: width .2s ease;
+}
+ 
+.link:hover:after{
+  width: 100%;
+  left: 0;
+  background: rgb(117, 117, 117);
+}
+
 .menu {
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
   height: 100%;
   width: 100%;
   display: flex;
-  align-items: right;
   list-style: none;
   padding: 0 100px;
 }
@@ -36,9 +66,8 @@ body {
   margin-right: 30px;
   position: relative;
   display: flex;
-  align-items: right;
   color: rgb(180, 180, 180);
-  transition: all 300ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  transition: all .2s ease;
 }
 
 .menu li:after {

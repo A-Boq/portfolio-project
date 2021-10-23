@@ -81,7 +81,16 @@ I used Github as a hosting platform for this portfolio project and used the foll
 10. To publish page, I went to Settings > Pages > Source and clicked on Branch: Master and Root folder. Click Save.
 11. Ran several regular commits throughout my project.
 
-## Repository Link
+### Running Code Locally
+
+To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
+
+1. Go to [my GitHub repository](https://github.com/A-Boq/portfolio-project.git).
+2. Click on 'Clone or download'.
+3. Click on 'Download ZIP'.
+4. Once dowloaded, extract the zip file's contents and run my website locally.
+
+### Repository Link
 https://a-boq.github.io/portfolio-project/
 
 ## Credits
